@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Database files
+*.db
+spendly.db
+spendly-backup.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+
+# Local tooling / editor config
+.claude/
+CLAUDE.md
+.vscode/
+.idea/
